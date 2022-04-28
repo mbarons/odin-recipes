@@ -1,0 +1,1 @@
+This project is a simple recipe website. It uses just basic HTML. Tags as <p>, <a>, <h1>, <img> and other simple ones are used. It is not only a webpage, as it will have at least two pages. This is my personal first webpage and it will be used as a practice of my own skills. This is proposed by The Odin Project. Good luck to me!
