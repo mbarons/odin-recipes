@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+}
+
+a {
+    color: black;
+}
+
+.page-header {
+    color: rgba(206, 35, 35, 0.842);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
